@@ -1,1 +1,9 @@
  INFO  Accepting connections at http://localhost:5173
+ HTTP  5/22/2026 11:04:46 AM ::1 GET /
+ HTTP  5/22/2026 11:04:46 AM ::1 Returned 200 in 24 ms
+ HTTP  5/22/2026 11:04:46 AM ::1 GET /assets/index-InOV-A3i.js
+ HTTP  5/22/2026 11:04:46 AM ::1 GET /assets/index-CGubYUBD.css
+ HTTP  5/22/2026 11:04:46 AM ::1 Returned 200 in 6 ms
+ HTTP  5/22/2026 11:04:46 AM ::1 Returned 200 in 10 ms
+ HTTP  5/22/2026 11:04:46 AM ::1 GET /vite.svg
+ HTTP  5/22/2026 11:04:46 AM ::1 Returned 200 in 3 ms
